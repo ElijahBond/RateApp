@@ -1,4 +1,4 @@
---------------THIS IS STUDYING PROJECT-------------- (I created this project witch help teacher)
+--------------THIS IS STUDYING PROJECT-------------- (I created this project with help teacher)
 
 Deploy vesrion - https://rate-app-88cf2.web.app/
 
